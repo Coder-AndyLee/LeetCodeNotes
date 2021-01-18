@@ -6,6 +6,7 @@
 [[20210108]189. 旋转数组-Medium](数组/189.%20旋转数组-Medium.md)  
 [[20210113]1202. 交换字符串中的元素-Medium](并查集/1202.%20交换字符串中的元素-Medium.md)  
 [[20210114]1018. 可被 5 整除的二进制前缀-Easy](数组/1018.%20可被%205%20整除的二进制前缀-Easy.md)   
+[[20210118]721. 账户合并-Medium](并查集/721.%20账户合并-Medium.md)  
 ## 2020.12
 [[20201201]34. 在排序数组中查找元素的第一个和最后一个位置-Medium](数组/34.%20在排序数组中查找元素的第一个和最后一个位置-Medium.md)  
 [[20201202]292. Nim 游戏-Easy](动态规划/292.%20Nim%20游戏-Easy.md)  
@@ -103,6 +104,7 @@
 ## 并查集
 ### 并查集详解, [link](https://leetcode-cn.com/problems/number-of-provinces/solution/python-duo-tu-xiang-jie-bing-cha-ji-by-m-vjdr/)
 [684. 冗余连接-Medium](并查集/684.%20冗余连接-Medium.md)  
+[721. 账户合并-Medium](并查集/721.%20账户合并-Medium.md)  
 [990. 等式方程的可满足性-Medium](并查集/990.%20等式方程的可满足性-Medium.md)  
 [1202. 交换字符串中的元素-Medium](并查集/1202.%20交换字符串中的元素-Medium.md)  
 
